@@ -122,3 +122,9 @@
 ✔ 不依赖云端接口
 
 所有处理均在本地完成。
+
+## 下载
+
+请前往 **Releases** 下载最新版本：
+
+👉 **https://github.com/ilyq/auto-masker/releases**
