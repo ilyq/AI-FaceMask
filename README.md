@@ -1,6 +1,6 @@
 # AI 打码
 
-> 一款完全离线运行的 AI 人脸人体车牌打码工具，支持图片和视频自动识别人脸并进行遮挡，所有处理均在本地完成，无需联网。
+> 一款完全离线运行的 AI 人脸人体车牌打码工具，支持图片和视频自动识别并进行遮挡，所有处理均在本地完成，无需联网。
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Offline](https://img.shields.io/badge/Offline-100%25-success)
