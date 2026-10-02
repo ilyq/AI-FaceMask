@@ -9,7 +9,7 @@
 
 ---
 
--[img.png](img.png)
+![img.png](img.png)
 
 ## ✨ 产品特点
 
