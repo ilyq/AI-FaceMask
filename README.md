@@ -9,7 +9,7 @@
 
 ---
 
-![img.png](img.png)
+![img](img.webp)
 
 ## ✨ 产品特点
 
